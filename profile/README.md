@@ -2,7 +2,7 @@
 
 # Small team. Serious Software
 
-* [tickrate.software/hire](https://tickrate.software/hire)
+* [tickrate.software/contact](https://tickrate.software/contact)
 * hello@tickrate.software
 
 
